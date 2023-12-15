@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @RomilaImran
-- 🌱 I’m currently learning HTML, C++, python and Javascript
-- 📫 romilaimranrashid@gmail.com
+
